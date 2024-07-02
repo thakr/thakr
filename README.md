@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Shaan</h1>
-<p>Computer science student and aspiring software engineer</p>
+<p>a computer science student and aspiring software engineer</p>
 
 <h2 align="left">I'm currently using</h2>
 

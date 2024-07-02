@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shaan Thakker</h1>
-<h3 align="center">Computer science student and fullstack web developer</h3>
+<h1>Hi 👋, I'm Shaan</h1>
+<p>Computer science student and fullstack web developer</p>
 
 - 🔭 I’m currently working on [QuizIt](https://github.com/thakr/quizit)
 
